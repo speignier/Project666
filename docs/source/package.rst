@@ -36,6 +36,14 @@ package.b module
     :undoc-members:
     :show-inheritance:
 
+package.c module
+----------------
+
+.. automodule:: package.c
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 package.projecvt\_2 module
 --------------------------
 
