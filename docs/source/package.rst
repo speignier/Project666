@@ -28,6 +28,14 @@ package.projecvt\_2 module
     :undoc-members:
     :show-inheritance:
 
+package.regression\_predictors module
+-------------------------------------
+
+.. automodule:: package.regression_predictors
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 
 Module contents
 ---------------
