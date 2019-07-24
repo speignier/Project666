@@ -20,6 +20,14 @@ package.Project666 module
     :undoc-members:
     :show-inheritance:
 
+package.projecvt\_2 module
+--------------------------
+
+.. automodule:: package.projecvt_2
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 
 Module contents
 ---------------
