@@ -1,6 +1,6 @@
 """
 Generator
----------
+===============
 This file contains the classes to generate clusters of points as well as full
 datasets, as well as functions to apply changes in dataset generators, in order
 to simulate the transition between a source to a target dataset

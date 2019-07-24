@@ -5,3 +5,4 @@ Project666
    :maxdepth: 4
 
    package
+   setup
