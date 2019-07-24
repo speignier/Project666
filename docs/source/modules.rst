@@ -1,5 +1,5 @@
-package
-=======
+Project666
+==========
 
 .. toctree::
    :maxdepth: 4

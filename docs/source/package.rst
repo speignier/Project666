@@ -4,6 +4,14 @@ package package
 Submodules
 ----------
 
+package.Generator module
+------------------------
+
+.. automodule:: package.Generator
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 package.Project666 module
 -------------------------
 
