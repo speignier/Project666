@@ -44,6 +44,14 @@ package.c module
     :undoc-members:
     :show-inheritance:
 
+package.d module
+----------------
+
+.. automodule:: package.d
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 package.projecvt\_2 module
 --------------------------
 
