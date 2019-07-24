@@ -8,6 +8,7 @@ inference algorithms based on regression, using `scikit-learn`_.
 .. _scikit-learn:
     https://scikit-learn.org
 """
+
 from sklearn.linear_model import BayesianRidge
 from sklearn.svm import SVR
 from sklearn.linear_model import Lasso
