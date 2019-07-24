@@ -1,7 +1,6 @@
 """
 GRN Co-Expression Inference with regression methods
 ===================================================
-
 This module allows to infer co-expression  Gene Regulatory Networks using
 gene expression data (RNAseq or Microarray). This module implements severall
 inference algorithms based on regression, using `scikit-learn`_.

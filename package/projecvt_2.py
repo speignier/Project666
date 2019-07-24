@@ -1,8 +1,34 @@
 """
-This is a title
-===============
-fezioshgfdihgkjshqfkjlsd
+GRN Co-Expression Inference with regression methods
+===================================================
+This module allows to infer co-expression  Gene Regulatory Networks using
+gene expression data (RNAseq or Microarray). This module implements severall
+inference algorithms based on regression, using `scikit-learn`_.
+
+.. _scikit-learn:
+    https://scikit-learn.org
 """
+from sklearn.linear_model import BayesianRidge
+from sklearn.svm import SVR
+from sklearn.linear_model import Lasso
+from sklearn.linear_model import LassoLars
+from sklearn.linear_model import RandomizedLasso
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import Lars
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import ExtraTreesRegressor
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.ensemble import AdaBoostRegressor
+import numpy as np
+
+__author__ = "Sergio Peignier, Pauline Schmitt"
+__copyright__ = "Copyright 2019, The GReNaDIne Project"
+__license__ = "GPL"
+__version__ = "0.0.1"
+__maintainer__ = "Sergio Peignier"
+__email__ = "sergio.peignier@insa-lyon.fr"
+__status__ = "pre-alpha"
+
 
 def the_function_42():
     """
