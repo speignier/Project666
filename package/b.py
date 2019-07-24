@@ -4,12 +4,7 @@ This is a title
 fezioshgfdihgkjshqfkjlsd
 """
 
-from sklearn.linear_model import BayesianRidge
-from sklearn.svm import SVR
-from sklearn.linear_model import Lasso
-from sklearn.linear_model import LassoLars
-from sklearn.linear_model import RandomizedLasso
-from sklearn.model_selection import train_test_split
+import numpy as np
 
 def the_function_42():
     """
