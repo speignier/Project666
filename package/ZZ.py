@@ -6,8 +6,8 @@ datasets, as well as functions to apply changes in dataset generators, in order
 to simulate the transition between a source to a target dataset
 
 """
-import pandas as pd
-import numpy as np
+#import pandas as pd
+#import numpy as np
 
 __author__ = "Sergio Peignier, Mounir Atiq"
 __copyright__ = ""
